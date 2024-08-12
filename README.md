@@ -16,8 +16,11 @@ This repository contains a basic implementation of a neural network from scratch
 8. **`SGD`**: Implements the Stochastic Gradient Descent (SGD) optimizer.
 9. **`Model`**: Main class for building, training, and evaluating the neural network model.
 
-### Usage
+### Dependencies
 
-1. **Initialize the Model**:
-   ```python
-   model = Model()
+- NumPy
+
+To install the required dependencies, you can use:
+
+```bash
+pip install numpy
